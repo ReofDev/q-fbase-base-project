@@ -1,5 +1,21 @@
 # Quasar App (base-project-quasar)
 
+## clone project 
+```
+ https://github.com/ReofDev/q-fbase-base-project.git
+```
+### to switch to a new repository
+
+```
+git remote -v
+git remote set-url origin <nueva URL del repositorio>
+git remote -v
+git add .
+git commit -m "mensaje del commit"
+git push -u origin master
+```
+
+
  A quasar project base
 
 ## Install the dependencies
